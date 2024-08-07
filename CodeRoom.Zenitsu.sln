@@ -9,6 +9,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{1D2679C1-FCAF-4551-8D51-E7103F7C08A9}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+		logo.svg = logo.svg
 	EndProjectSection
 EndProject
 Global
